@@ -19,7 +19,7 @@ Second week's deliverables:
 <ul>
   <li>Survey responses</li>
   <li>Personas</li>
-  <li>Scenarios/li>
+  <li>Scenarios</li>
   <li>CI Models</li>
 </ul>
 
