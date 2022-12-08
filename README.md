@@ -15,7 +15,7 @@ To add a new page:
 
 ```
 ----
-title: TITLE OF THE PAGE \
+title: TITLE OF THE PAGE 
 layout: page
 ----
 ```
