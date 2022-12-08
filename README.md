@@ -14,6 +14,7 @@ To add a new page:
 - Add this to the beginning of the file
 
 title: TITLE OF THE PAGE
+
 layout: page
 
 
