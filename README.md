@@ -13,8 +13,7 @@ To add a new page:
 - Create a new .md file
 - Add this to the beginning of the file
 
-title: TITLE OF THE PAGE
-
+title: TITLE OF THE PAGE \
 layout: page
 
 
