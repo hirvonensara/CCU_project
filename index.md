@@ -5,15 +5,33 @@ layout: home
 
 This website is used for storing the documents needed for User-Centered Design and Evaluation course. 
 
-## Week 1
+## Week 1 — Brief 
 
-Link to week 1
+First week's deliverables:
+<ol>
+  <li>Hunt statement</li>
+  <li>Research plan</li>
+</ol>
 
-## Week 2
+## Week 2 — Data Aanalysis and Synthesis
 
-kkk
+Second week's deliverables:
+<ol>
+  <li>Survey responses</li>
+  <li>Personas</li>
+  <li>Scenarios/li>
+  <li>CI Models</li>
+</ol>
 
-## Week 3
+## Week 3 — Ideation
+
+Third week's deliverables:
+<ol>
+  <li>Ideas</li>
+  <li>Storyboards</li>
+  <li>Presentation slides</li>
+  <li>Video</li>
+</ol>
 
 ----
 
