@@ -4,10 +4,12 @@
 
 This GitHub repository is for storing the files needed for running a GitHub web page for a project in User-Centered Design and Evaluation (CCU) course. 
 
-To add content to the web page:
+To add content to the home page:
 - Go to **index.md**
 - Make your changes and commit
 - Changes shoul be visible after couple minutes
+
+
 
 ----
 
