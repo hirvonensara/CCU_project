@@ -13,9 +13,12 @@ To add a new page:
 - Create a new .md file
 - Add this to the beginning of the file
 
+```
+----
 title: TITLE OF THE PAGE \
 layout: page
-
+----
+```
 
 - Create the content of the page using Markdown
 
