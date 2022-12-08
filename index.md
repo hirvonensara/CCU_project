@@ -8,30 +8,30 @@ This website is used for storing the documents needed for User-Centered Design a
 ## Week 1 — Brief 
 
 First week's deliverables:
-<ol>
+<ul>
   <li>Hunt statement</li>
   <li>Research plan</li>
-</ol>
+</ul>
 
 ## Week 2 — Data Aanalysis and Synthesis
 
 Second week's deliverables:
-<ol>
+<ul>
   <li>Survey responses</li>
   <li>Personas</li>
   <li>Scenarios/li>
   <li>CI Models</li>
-</ol>
+</ul>
 
 ## Week 3 — Ideation
 
 Third week's deliverables:
-<ol>
+<ul>
   <li>Ideas</li>
   <li>Storyboards</li>
   <li>Presentation slides</li>
   <li>Video</li>
-</ol>
+</ul>
 
 ----
 
