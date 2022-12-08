@@ -4,6 +4,11 @@
 
 This GitHub repository is for storing the files needed for running a GitHub web page for a project in User-Centered Design and Evaluation (CCU) course. 
 
+To add content to the web page:
+- Go to **index.md**
+- Make your changes and commit
+- Changes shoul be visible after couple minutes
+
 ----
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
