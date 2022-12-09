@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-This website is used for storing the documents needed for User-Centered Design and Evaluation course. 
+This website is used for storing the documents needed for User-Centered Design and Evaluation course created by the Team 16.
 
 ## Week 1 — Brief 
 
