@@ -31,8 +31,7 @@ Second week's deliverables:
 
 Third week's deliverables:
 <ul>
-  <li>Ideas</li>
-  <li>Storyboards</li>
+  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/10x10.png">Ideation Process 10x10</a></li>
   <li>Presentation slides</li>
   <li>Video</li>
 </ul>
