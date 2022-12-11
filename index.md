@@ -10,7 +10,7 @@ This website is used for storing the documents needed for User-Centered Design a
 First week's deliverables:
 <ul>
   <li>Hunt statement</li>
-  <li>Research plan</li>
+  <li>[Research plan](https://github.com/hirvonensara/CCU_project/blob/main/Research%20Plan.pdf)</li>
 </ul>
 
 ## Week 2 — Data Aanalysis and Synthesis
