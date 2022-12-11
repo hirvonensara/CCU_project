@@ -31,7 +31,7 @@ Third week's deliverables:
 <ul>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/10x10.png">Ideation Process 10x10</a></li>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/team16_slides.pdf">Presentation Slides</a></li>
-  <li>Video</li>
+  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/team16_video.mp4">Video</a></li>
 </ul>
 
 ----
