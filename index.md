@@ -22,9 +22,7 @@ Second week's deliverables:
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/surveys/FinancialLiteracySurvey1.pdf">Survey Iteration 1</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/surveys/FinancialLiteracySurvey2.pdf">Survey Iteration 2</a></li>
   </ul>
-  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Hunt%20Statement.pdf">Personas</a></li>
-  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Hunt%20Statement.pdf">Scenarios</a></li>
-  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Hunt%20Statement.pdf">CI Model</a></li>
+  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Data%20Synthesis.pdf">Data Synthesis (Personas, Scenarios, CI models, Storyboards)</a></li>
 </ul>
 
 ## Week 3 — Ideation
