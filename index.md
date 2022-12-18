@@ -34,6 +34,22 @@ Third week's deliverables:
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/team16_video.mp4">Video</a></li>
 </ul>
 
+## Week 4 - Prototyping
+
+Fourth week's deliverables:
+<ul>
+  <li>Low-fidelity prototypes</li>
+  <li>Mid-fidelity prototypes</li>
+</ul>
+
+## Week 5 - Evaluation
+
+Fifth week's deliverables:
+<ul>
+  <li>Wizard of Oz test</li>
+  <li>Whatever evaluation for mid-fidelity</li>
+  <li>Plan for evaluating the final prototype</li>
+</ul>
 ----
 
 
