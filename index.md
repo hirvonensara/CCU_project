@@ -43,7 +43,7 @@ Fourth week's deliverables:
   <ul>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-1.png">Iteration 1</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-2.png">Iteration 2</a></li>
-        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/surveys/Mid_Fid_Prototype-3.png">Iteration 3</a></li>
+        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-3.png">Iteration 3</a></li>
   </ul>
 </ul>
 
