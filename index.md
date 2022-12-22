@@ -7,7 +7,6 @@ This website is used for storing the documents needed for User-Centered Design a
 
 ## Week 1 — Brief 
 
-First week's deliverables:
 <ul>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Hunt%20Statement.pdf">Hunt statement</a></li>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/Research%20Plan.pdf">Research Plan</a></li>
@@ -15,7 +14,6 @@ First week's deliverables:
 
 ## Week 2 — Data Aanalysis and Synthesis
 
-Second week's deliverables:
 <ul>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/DataAnalysis.pdf">Survey Analyses</a></li>
   <ul>
@@ -27,7 +25,6 @@ Second week's deliverables:
 
 ## Week 3 — Ideation
 
-Third week's deliverables:
 <ul>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/10x10.png">Ideation Process 10x10</a></li>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/team16_slides.pdf">Presentation Slides</a></li>
@@ -36,7 +33,6 @@ Third week's deliverables:
 
 ## Week 4 & 5 - Prototyping and Evaluation
 
-Fourth week's deliverables:
 <ul>
   <li>Low-fidelity prototype</li>
   <ul>
