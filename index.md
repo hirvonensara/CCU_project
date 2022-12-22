@@ -50,7 +50,7 @@ Fourth week's deliverables:
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-2.png">Iteration 2</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-3.png">Iteration 3</a></li>
   </ul>
-  <li>User Evaluation Plan</li>
+  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Hi-fi_prototype_evaluation_plan.pdf">User Evaluation Plan</a></li>
 </ul>
 
 ## Week 5 - Evaluation
