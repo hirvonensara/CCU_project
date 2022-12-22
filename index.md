@@ -53,14 +53,6 @@ Fourth week's deliverables:
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Hi-fi_prototype_evaluation_plan.pdf">User Evaluation Plan</a></li>
 </ul>
 
-## Week 5 - Evaluation
-
-Fifth week's deliverables:
-<ul>
-  <li>Wizard of Oz test</li>
-  <li>Whatever evaluation for mid-fidelity</li>
-  <li>Plan for evaluating the final prototype</li>
-</ul>
 ----
 
 
