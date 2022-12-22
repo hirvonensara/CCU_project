@@ -39,9 +39,9 @@ Third week's deliverables:
 Fourth week's deliverables:
 <ul>
   <li>Low-fidelity prototype></li>
-    <ul>
-        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/low-fidelity.jpg">Low-fidelity prototype</a></li>
-    </ul>
+  <ul>
+        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/low-fidelity.jpg">Iteration 1</a></li>
+  </ul>
   <li>Mid-fidelity prototype</li>
   <ul>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-1.png">Iteration 1</a></li>
