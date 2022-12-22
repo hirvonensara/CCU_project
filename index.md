@@ -34,20 +34,23 @@ Third week's deliverables:
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/team16_video.mp4">Video</a></li>
 </ul>
 
-## Week 4 - Prototyping
+## Week 4 & 5 - Prototyping and Evaluation
 
 Fourth week's deliverables:
 <ul>
   <li>Low-fidelity prototype</li>
   <ul>
+        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Wizard_of_Oz_Low_Fidelity.pdf">Wizard of Oz</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/low-fidelity.jpg">Iteration 1</a></li>
   </ul>
   <li>Mid-fidelity prototype</li>
   <ul>
+        <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Wizard_of_Oz_Mid_fidelity.pdf">Wizard of Oz</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-1.png">Iteration 1</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-2.png">Iteration 2</a></li>
         <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/Mid_Fid_Prototype-3.png">Iteration 3</a></li>
   </ul>
+  <li>User Evaluation Plan</li>
 </ul>
 
 ## Week 5 - Evaluation
