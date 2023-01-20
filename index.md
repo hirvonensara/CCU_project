@@ -56,7 +56,7 @@ This website is used for storing the documents needed for User-Centered Design a
 <ul>
   <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/docs/CCU_Final_Presentation.pdf">Final Presentation Slides</a></li>
   <li><a href="https://www.figma.com/file/dWDbLrnr3wmuPdgfjxVUpV/High-Fid-Prototype?node-id=0%3A1&t=eksXoF1uzdyxcleE-1">Figma Project</a></li>
-  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/team16_report.pdf">Final Report></a></li>
+  <li><a href="https://github.com/hirvonensara/CCU_project/blob/main/team16_report.pdf">Final Report</a></li>
 </ul>
 
 ----
